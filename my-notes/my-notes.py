@@ -18,3 +18,8 @@
             Could have
             Won't have
             '''
+# 怎么使用谷歌 https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html
+# 挤挤都会有的 https://github.com/xiaolai/ji
+# 提问的智慧 https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md
+# 程序员问答社区 https://stackoverflow.com/
+# 维基百科 https://en.wikipedia.org/wiki/Main_Page
